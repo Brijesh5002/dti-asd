@@ -12,7 +12,7 @@ This web application provides real-time image detection for potential Autism Spe
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/asd-detection-app.git
+git clone https://github.com/Brijesh5002/dti-asd.git
 cd asd-detection-app
 ```
 
