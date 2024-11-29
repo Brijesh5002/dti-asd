@@ -1,5 +1,23 @@
-flask==2.3.3
-flask-cors==3.0.10
-opencv-python-headless==4.8.1.78
-tensorflow==2.14.0
-numpy==1.26.0
+# Backend Dependencies
+flask
+flask-cors
+opencv-python-headless
+tensorflow
+numpy
+
+# Machine Learning
+scikit-learn
+
+# Testing Dependencies
+selenium
+webdriver-manager
+pytest
+
+# Development Tools
+pylint
+black
+
+# WebDriver Specific
+webdriver_manager
+chromedriver-binary
+geckodriver-autoinstaller
